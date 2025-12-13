@@ -30,6 +30,8 @@ At the product level, **gaming monitors** were the strongest performer, genera
 Seasonal trends were also evident. The most significant peak occurred in **December 2020**, with fall and winter consistently showing stronger performance. This pattern signals the impact of **holiday shopping**, promotions, or year-end sales events.
 
 Overall, the findings highlight strong growth from 2020 onward, clear seasonal demand patterns, and substantial differences in product performance—providing important direction for marketing, inventory planning, and product strategy.
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded ![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
+
+Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
 
 
