@@ -9,8 +9,8 @@ Insights and recommendations are provided on the following key areas:
 - **Overall Sales Performance:** Analysis of total sales, identifying revenue growth trends and monthly fluctuations.
 - **Seasonal Demand Patterns:** Assessment of monthly sales trends, highlighting strong performance with specific seasons.
 - **Product Performance:** Evaluation of top and low performers with leading and underperforming sales.
-- **Category & Company-Wide Trends:** Review of category-level trends showing significant sales increase across all products, suggesting macro factors such as COVID-driven demand.
-- **Promotional Impact Analysis:** Identification of synchronized sales spikes indicating the influence of promotions, campaigns, or seasonal events.
+- **Channel Performance & Marketing Effectiveness:** Analyzes sales contribution by marketing and purchase channels.
+- **Regional Performance & Market Shifts:** Evaluates sales behavior across geographic regions.
 
 The Excel File used to inspect and clean the data for this analysis can be found [here](gamezone-orders-data.xlsx).
 
@@ -33,5 +33,7 @@ Overall, the findings highlight strong growth from 2020 onward, clear seasonal d
 
 Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
+
+## Insights Deep Dive
 
 
