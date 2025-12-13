@@ -11,3 +11,5 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance:** Evaluation of top and low performers with leading and underperforming sales.
 - **Category & Company-Wide Trends:** Review of category-level trends showing significant sales increase across all products, suggesting macro factors such as COVID-driven demand.
 - **Promotional Impact Analysis:** Identification of synchronized sales spikes indicating the influence of promotions, campaigns, or seasonal events.
+
+The Excel File used to inspect and clean the data for this analysis can be found here
