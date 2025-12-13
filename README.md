@@ -23,7 +23,7 @@ The Gamezone database structure as below consist of two tables: order and region
 - **region:** Stores a mapping between each country code and its assigned geographic region.![](order.png)
 ## Executive Summary 
 ## Overview Of Findings
-The analysis of sales data from 2018–2021 shows a total revenue of **$1.6 million**, with monthly sales ranging between **$80K and $500K**. A noticeable increase in sales begins in **2020**, where all product categories experienced a significant spike, suggesting a broader company-wide or market-driven impact, likely influenced by rising consumer demand during COVID.
+The analysis of sales data from 2018–2021 shows a total revenue of **$6.15 million**, with monthly sales ranging between **$80K and $500K**. A noticeable increase in sales begins in **2020**, where all product categories experienced a significant spike, suggesting a broader company-wide or market-driven impact, likely influenced by rising consumer demand during COVID.
 
 At the product level, **gaming monitors** were the strongest performer, generating **$2 million** in sales, while **gaming headsets** were the lowest-performing at **$800**, indicating either extremely low demand or potential missing data. Category-level analysis confirms that headsets contributed **less than 2%** of overall sales.
 
