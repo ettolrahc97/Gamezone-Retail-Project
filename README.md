@@ -13,3 +13,4 @@ Insights and recommendations are provided on the following key areas:
 - **Promotional Impact Analysis:** Identification of synchronized sales spikes indicating the influence of promotions, campaigns, or seasonal events.
 
 The Excel File used to inspect and clean the data for this analysis can be found [here](gamezone-orders-data.xlsx).
+
