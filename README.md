@@ -35,5 +35,12 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 ![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
 
 ## Insights Deep Dive
+**Product Performance:**
+![]()
+- Gaming monitor, Nintendo Switch and Sony Playstation 5 Bundle are the main drivers of the dip, all three exhibit the same plateauing behavior in 2021.
+- While all three products exhibited dips in early of 2021, Sony playstation had major dip in direct traffic in the beginning of 2021 compared to other products and marketing channels.
+
+**Channel Performance & Marketing Effectiveness:**
+- Direct is the main driver of all sales. All other channels pale in comparison.
 
 
