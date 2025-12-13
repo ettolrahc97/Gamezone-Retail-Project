@@ -14,3 +14,8 @@ Insights and recommendations are provided on the following key areas:
 
 The Excel File used to inspect and clean the data for this analysis can be found [here](gamezone-orders-data.xlsx).
 
+The Gamezone database structure as below consist of two tables: order and region with a total row of 21,865 records. A description of each table is as follows:
+
+- **order:** Stores individual customer orders, including who made the purchase, what was bought, when it was purchased and shipped, how and where the order was made.
+
+- **region:** Stores a mapping between each country code and its assigned geographic region.
