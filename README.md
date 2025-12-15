@@ -36,7 +36,7 @@ Channel analysis shows that Direct traffic overwhelmingly dominates revenue, con
 
 From a geographic perspective, North America (NA) is the primary revenue contributor at 52.1%, followed by EMEA (30.3%), with APAC (12.1%) and LATAM (5.5%) contributing smaller shares. This indicates a strong regional concentration in NA, with growth potential in underpenetrated regions.
 
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/PerformanceOverviewDashboard_17657860838280/PerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/6bb5356c070721add460892534c0b00191169239/Performance_Overview.png)
 ## Insights Deep Dive
 **Product Performance:**
@@ -60,6 +60,8 @@ NA region leads in revenue, particularly for high-value products, but also shows
 - Other regions (EMEA, APAC, LATAM) follow the same pattern, indicating the revenue spike and dip was not localized, but a global trend.
 Regional insights highlight market shifts and can guide decisions for regional promotions, inventory planning, and marketing focus.
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/171f482e47bcbb7b1fdffec6f6e6e7331526d3a1/Regional_Performance.png)
+
+Below is the overall sales performance page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/OverallSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Recommendations:
