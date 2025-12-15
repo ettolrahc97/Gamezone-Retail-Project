@@ -61,6 +61,17 @@ Regional insights highlight market shifts and can guide decisions for regional p
 
 
 ## Recommendations
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
-
+Based on the uncovered insights, the following recommendations have been provided.
+- **Double down on top-performing products while managing post-peak demand.**
+Prioritize inventory planning, pricing strategy, and promotional support for the top three revenue drivers (27in 4K Gaming Monitor, Nintendo Switch, and Sony PlayStation 5 Bundle). Since these products largely explain both the December 2020 peak and the early 2021 decline, improve demand forecasting and launch staggered promotions to avoid sharp post-holiday drops.
+- **Strengthen and diversify channel strategy beyond direct traffic.**
+Direct traffic is the primary driver of revenue but also the main source of volatility. Invest in scaling email, affiliate, and paid social channels to reduce reliance on direct traffic and create a more stable, diversified acquisition mix—especially during non-peak periods.
+- **Investigate and replicate December 2020 drivers.**
+Conduct a deeper analysis of promotions, pricing changes, product availability, and marketing campaigns during December 2020. Successful tactics should be replicated or adapted for future peak periods (e.g., holiday campaigns, limited bundles, or urgency-based offers).
+- **Address regional-specific declines with targeted strategies.**
+While sales trends are global, the sharper decline in NA—especially for the Sony PlayStation 5 Bundle via direct channel—suggests regional demand shifts or competitive pressure. Introduce region-specific campaigns, pricing tests, or alternative bundles to stabilize performance in key markets.
+- **Re-evaluate underperforming categories and products.**
+Headsets contribute less than 2% of total sales and show weak performance. Validate data completeness, then consider product repositioning, bundling with high-performing items, or deprioritizing inventory to reallocate resources toward higher-impact products.
+- **Plan for seasonality with proactive inventory and marketing alignment.**
+Consistent fall and winter sales spikes indicate strong seasonality. Align inventory procurement, marketing spend, and staffing ahead of these periods to maximize revenue while minimizing stockouts and post-peak slowdowns.
 
