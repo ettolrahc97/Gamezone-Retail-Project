@@ -1,8 +1,10 @@
 # Gamezone Retail Project
 ## Project Background
-Gamezone founded in 2018. Sell new and refurbished gaming products all around the world. They use online website, mobile app, and variety of marketing channels.
+GameZone is a global gaming retailer founded in 2018, specializing in both new and refurbished gaming products. The company operates through multiple digital touchpoints, including an online website and a mobile application, and leverages a variety of marketing channels to reach customers worldwide.
 
-This project thoroughly analyzes and synthesizes the data to uncover critical insights such as the overall sales trends across a variety of different regions within the organization.
+This project analyzes GameZone’s transactional and marketing data from a stakeholder’s point of view, with the goal of understanding overall business performance. The analysis focuses on identifying key sales trends across different products, marketing channels, and geographic regions. By grounding the analysis in clear business goals, this project aims to generate insights that are relevant, actionable, and aligned with real-world decision-making within the organization.
+
+The findings from this analysis are intended to support stakeholders in evaluating performance, understanding drivers of growth and decline, and identifying opportunities to optimize product strategy, marketing effectiveness, and regional expansion.
 
 Insights and recommendations are provided on the following key areas:
 
