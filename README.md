@@ -18,7 +18,7 @@ The Excel File used to inspect and clean the data for this analysis can be found
 
 ## Data Structure & Initial Checks
 
-The Gamezone database structure as below consist of two tables: order and region with a total row of 21,865 records. A description of each table is as follows:
+The GameZone database structure as below consist of two tables: order and region with a total row of 21,865 records. A description of each table is as follows:
 
 - **order:** Stores individual customer orders, including who made the purchase, what was bought, when it was purchased and shipped, how and where the order was made.
 
