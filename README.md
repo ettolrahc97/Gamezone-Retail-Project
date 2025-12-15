@@ -35,16 +35,26 @@ Channel analysis shows that Direct traffic overwhelmingly dominates revenue, con
 From a geographic perspective, North America (NA) is the primary revenue contributor at 52.1%, followed by EMEA (30.3%), with APAC (12.1%) and LATAM (5.5%) contributing smaller shares. This indicates a strong regional concentration in NA, with growth potential in underpenetrated regions.
 
 Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
-
+![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/6bb5356c070721add460892534c0b00191169239/Performance_Overview.png)
 ## Insights Deep Dive
 **Product Performance:**
 ![]()
-- Gaming monitor, Nintendo Switch and Sony Playstation 5 Bundle are the main drivers of the dip, all three exhibit the same plateauing behavior in 2021.
-- While all three products exhibited dips in early of 2021, Sony playstation had major dip in direct traffic in the beginning of 2021 compared to other products and marketing channels.
+- The Top 3 products (27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle) are clearly driving overall revenue and orders.
+- AOV (Average Order Value) shows that Sony PlayStation 5 Bundle has the highest price per order, especially in December 2020, indicating it contributes disproportionately to total revenue.
+- Order counts show that spikes in December 2020 across all top products drove the overall revenue peak.
+- Overall, product-level performance explains why December 2020 was a peak: strong sales from high-value and popular products.
 
 **Channel Performance & Marketing Effectiveness:**
-- Direct is the main driver of all sales. All other channels pale in comparison.
+- Direct channel dominates sales across all top products, especially during December 2020, making it the main driver of sales spikes.
+Other channels (email, affiliate, social media) contribute minimally in comparison.
+- Breakdown by product shows that Sony PlayStation 5 Bundle sales drop in early 2021 was mostly from a decline in direct channel, explaining part of the post-peak revenue decrease.
+- Marketing effectiveness is heavily tied to direct channel campaigns, signaling a potential area to optimize or diversify.
+
+**Regional Performance & Market Shifts:**
+- All regions show similar seasonal trends, confirming a macro/global impact, likely related to COVID-19 demand changes.
+NA region leads in revenue, particularly for high-value products, but also shows a sharp dip in early 2021, mostly driven by direct channel sales.
+Other regions (EMEA, APAC, LATAM) follow the same pattern, indicating the revenue spike and dip was not localized, but a global trend.
+Regional insights highlight market shifts and can guide decisions for regional promotions, inventory planning, and marketing focus.
 
 ## Recommendations
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
