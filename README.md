@@ -8,7 +8,7 @@ The findings from this analysis are intended to support stakeholders in evaluati
 
 Insights and recommendations are provided on the following key areas:
 
-- **Overall Sales Performance:** Analysis of total sales, identifying revenue growth trends and monthly fluctuations.
+- **Overall Sales Trends:** Analysis of total sales, identifying revenue growth trends and monthly fluctuations.
 - **Seasonal Demand Patterns:** Assessment of monthly sales trends, highlighting strong performance with specific seasons.
 - **Product Performance:** Evaluation of top and low performers with leading and underperforming sales.
 - **Channel Performance & Marketing Effectiveness:** Analyzes sales contribution by marketing and purchase channels.
