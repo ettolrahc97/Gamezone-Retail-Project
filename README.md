@@ -62,7 +62,7 @@ Regional insights highlight market shifts and can guide decisions for regional p
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/171f482e47bcbb7b1fdffec6f6e6e7331526d3a1/Regional_Performance.png)
 
 
-## Recommendations
+## Recommendations:
 Based on the uncovered insights, the following recommendations have been provided.
 - **Double down on top-performing products while managing post-peak demand.**
 Prioritize inventory planning, pricing strategy, and promotional support for the top three revenue drivers (27in 4K Gaming Monitor, Nintendo Switch, and Sony PlayStation 5 Bundle). Since these products largely explain both the December 2020 peak and the early 2021 decline, improve demand forecasting and launch staggered promotions to avoid sharp post-holiday drops.
@@ -76,4 +76,17 @@ While sales trends are global, the sharper decline in NA—especially for the So
 Headsets contribute less than 2% of total sales and show weak performance. Validate data completeness, then consider product repositioning, bundling with high-performing items, or deprioritizing inventory to reallocate resources toward higher-impact products.
 - **Plan for seasonality with proactive inventory and marketing alignment.**
 Consistent fall and winter sales spikes indicate strong seasonality. Align inventory procurement, marketing spend, and staffing ahead of these periods to maximize revenue while minimizing stockouts and post-peak slowdowns.
+
+## Assumptions & Caveats:
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+- **Inconsistent date formats** were standardized using date functions to ensure all timestamps were properly formatted and comparable across the dataset.
+- **Missing purchase or ship dates** were left unchanged due to their low frequency and the absence of reliable information to accurately infer missing values.
+- **Inconsistent product naming** (e.g., variations of “27in 4K gaming monitor”) was resolved by recategorizing entries under a single, standardized product name to ensure accurate aggregation and analysis.
+- **Transactions with missing or $0 USD prices** were retained in the dataset, as there was no reliable way to infer correct values. These cases would require validation with stakeholders before exclusion or correction.
+- **Missing marketing channel values** were recategorized as “Unknown” to preserve record completeness while maintaining transparency around data gaps.
+- **Missing account creation method values** were also recategorized as “Unknown”, following the same approach used for marketing channels.
+- **Missing country codes** were left as-is, as inferring geographic information without supporting data could introduce inaccuracies. Further clarification from stakeholders would be required.
+- **Inconsistent or nonsensical region values** were corrected by mapping valid country codes to their appropriate regions using a trusted lookup reference.
+- **Duplicate order IDs** were retained, as they represented a low volume of records. These could be removed if required for future order-level analyses.
+- **Shipping timestamps** occurring before purchase timestamps were left unchanged. While not addressed in this analysis, these records should be flagged in future analyses that focus on fulfillment or logistics performance.
 
