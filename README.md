@@ -23,13 +23,16 @@ The Gamezone database structure as below consist of two tables: order and region
 - **region:** Stores a mapping between each country code and its assigned geographic region.![](order.png)
 ## Executive Summary 
 ## Overview Of Findings
-The analysis of sales data from 2018–2021 shows a total revenue of **$6.15 million**, with monthly sales ranging between **$80K and $500K**. A noticeable increase in sales begins in **2020**, where all product categories experienced a significant spike, suggesting a broader company-wide or market-driven impact, likely influenced by rising consumer demand during COVID.
+Overall performance from 2019 to 2020 shows strong revenue growth driven by a surge in demand starting in early 2020, with clear signs of seasonality and concentration across products, channels, and regions.
 
-At the product level, **gaming monitors** were the strongest performer, generating **$2 million** in sales, while **gaming headsets** were the lowest-performing at **$800**, indicating either extremely low demand or potential missing data. Category-level analysis confirms that headsets contributed **less than 2%** of overall sales.
+Total revenue reached $6.15M, supported by an order volume of 21.68K and an Average Order Value (AOV) of $283.78, indicating that revenue growth was driven by both order activity and relatively high-value purchases.
 
-Seasonal trends were also evident. The most significant peak occurred in **December 2020**, with fall and winter consistently showing stronger performance. This pattern signals the impact of **holiday shopping**, promotions, or year-end sales events.
+Sales trends reveal a steady increase through 2019, followed by a significant acceleration in 2020, culminating in a peak during December 2020, which recorded the highest monthly sales at approximately $549K. This spike, along with stronger performance in fall and winter months, suggests a combination of seasonality, holiday demand, and potential promotional activity, amplified by broader market conditions during the COVID period. In contrast, February 2019 marked the lowest sales month, highlighting how much demand shifted over time.
+Product performance is highly concentrated, with the 27-inch 4K gaming monitor emerging as the top revenue driver at nearly $2M, followed by the Nintendo Switch and Sony PlayStation 5 Bundle. Together, these top three products account for a substantial share of total revenue, indicating reliance on a small set of high-performing items.
 
-Overall, the findings highlight strong growth from 2020 onward, clear seasonal demand patterns, and substantial differences in product performance—providing important direction for marketing, inventory planning, and product strategy.
+Channel analysis shows that Direct traffic overwhelmingly dominates revenue, contributing 84.7% of total sales, while other channels such as email, affiliate, and social media play a much smaller role. This suggests strong brand-driven or repeat purchasing behavior but also highlights an opportunity to diversify and strengthen secondary marketing channels.
+
+From a geographic perspective, North America (NA) is the primary revenue contributor at 52.1%, followed by EMEA (30.3%), with APAC (12.1%) and LATAM (5.5%) contributing smaller shares. This indicates a strong regional concentration in NA, with growth potential in underpenetrated regions.
 
 Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![here](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/560b4c2c3a24fabc59a3812be8f7588c712050f2/GameZone%20Dashboard.png)
