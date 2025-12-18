@@ -37,7 +37,7 @@ Channel analysis shows that Direct traffic overwhelmingly dominates revenue, con
 
 From a geographic perspective, North America (NA) is the primary revenue contributor at 52.1%, followed by EMEA (30.3%), with APAC (12.1%) and LATAM (5.5%) contributing smaller shares. This indicates a strong regional concentration in NA, with growth potential in underpenetrated regions.
 
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/b71c0e3332694291992ae93f8c0a0674f5ee75ee/Overview.png)
 
 ## Insights Deep Dive
@@ -61,7 +61,7 @@ NA region leads in revenue, particularly for high-value products, but also shows
 - Other regions (EMEA, APAC, LATAM) follow the same pattern, indicating the revenue spike and dip was not localized, but a global trend.
 Regional insights highlight market shifts and can guide decisions for regional promotions, inventory planning, and marketing focus.
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/b71c0e3332694291992ae93f8c0a0674f5ee75ee/Region.png)
-Below is the overall sales performance page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/ProductInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the product insights page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/GameZoneRetailProject/ProductInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 ## Recommendations:
