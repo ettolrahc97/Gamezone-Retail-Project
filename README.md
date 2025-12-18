@@ -25,12 +25,13 @@ The GameZone database structure as below consist of two tables: order and region
 - **region:** Stores a mapping between each country code and its assigned geographic region.![](order.png)
 ## Executive Summary 
 ## Overview Of Findings
-Overall performance from 2019 to 2020 shows strong revenue growth driven by a surge in demand starting in early 2020, with clear signs of seasonality and concentration across products, channels, and regions.
+Overall performance from 2019 to 2021 shows strong revenue growth driven by a surge in demand starting in early 2020, with clear signs of seasonality and concentration across products, channels, and regions.
 
-Total revenue reached $6.15M, supported by an order volume of 21.68K and an Average Order Value (AOV) of $283.78, indicating that revenue growth was driven by both order activity and relatively high-value purchases.
+Total revenue reached $6.2M, supported by an order volume of 21.7K and an Average Order Value (AOV) of $283.8, indicating that revenue growth was driven by both order activity and relatively high-value purchases.
 
 Sales trends reveal a steady increase through 2019, followed by a significant acceleration in 2020, culminating in a peak during December 2020, which recorded the highest monthly sales at approximately $549K. This spike, along with stronger performance in fall and winter months, suggests a combination of seasonality, holiday demand, and potential promotional activity, amplified by broader market conditions during the COVID period. In contrast, February 2019 marked the lowest sales month, highlighting how much demand shifted over time.
-Product performance is highly concentrated, with the 27-inch 4K gaming monitor emerging as the top revenue driver at nearly $2M, followed by the Nintendo Switch and Sony PlayStation 5 Bundle. Together, these top three products account for a substantial share of total revenue, indicating reliance on a small set of high-performing items.
+
+Product Performance is highly concentrated among top products, suggesting a reliance on a few key revenue drivers. The 24in 4K Gaming Monitor leads with 32% of total sales, making it the top-performing product followed by Nintendo Switch (27%) and Sony PlayStation 5 Bundle (26%). Together, the top three products account for over 80% of total product sales, indicating heavy reliance on a small number of best-sellers. Several accessories (gaming mouse, headset contribute minimally, highlighting potential opportunities for bundling, upselling or reconsidering inventory strategy.
 
 Channel analysis shows that Direct traffic overwhelmingly dominates revenue, contributing 84.7% of total sales, while other channels such as email, affiliate, and social media play a much smaller role. This suggests strong brand-driven or repeat purchasing behavior but also highlights an opportunity to diversify and strengthen secondary marketing channels.
 
