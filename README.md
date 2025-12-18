@@ -41,9 +41,9 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/b71c0e3332694291992ae93f8c0a0674f5ee75ee/Overview.png)
 
 ## Insights Deep Dive
-**Product Performance:**
-- The Top 3 products (27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle) are clearly driving overall revenue and orders.
-- AOV (Average Order Value) shows that Sony PlayStation 5 Bundle has the highest price per order, especially in December 2020, indicating it contributes disproportionately to total revenue.
+**Overall Sales Trends & Product Performance:**
+- Over the 2019-2021 period, the Top 3 products (27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle) are clearly driving overall revenue and orders. The 27in 4k Gaming Monitor emerged as the top revenue driver with steadily rising sales and strong order counts, reflecting consistent demand and broad market appeal. The Sony PS5 Bundle maintained the highest AOV (Average Order Value) especially in December 2020, showing its premium positioning, but its order count was more constrained, likely due to availability. The Nintendo Switch exhibited variable sales and order spikes, driven by stock availability and seasonal demand, while its AOV showed moderate growth.
+- High-value products like Sony PS5 drive revenue strength, while stable mid-tier offerings like the gaming monitor capture consistent demand. Console sales were more volatile, emphasizing the impact of supply cycles and promotional timing on performance.   
 - Order counts show that spikes in December 2020 across all top products drove the overall revenue peak.
 - Overall, product-level performance explains why December 2020 was a peak: strong sales from high-value and popular products.
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/b71c0e3332694291992ae93f8c0a0674f5ee75ee/Product%20Insight.png)
