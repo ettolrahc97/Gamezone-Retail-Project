@@ -15,9 +15,12 @@ Insights and recommendations are provided on the following key areas:
 - **Regional Performance & Market Shifts:** Evaluates sales behavior across geographic regions.
 
 The Excel File of raw dataset for this analysis can be found [here](raw_data_gamezone_orders.xlsx).
-The Excel File utilized to clean, organize and prepare data for the dashboard can be found [here]().
-The Excel File utilized to inspect and perform quality checks can be found [here]().
-The Excel File regarding various business questions can be found [here]().
+
+The Excel File utilized to clean, organize and prepare data for the dashboard can be found [here](gamezone_cleaned.xlsx).
+
+The Excel File utilized to inspect and perform quality checks can be found [here](gamezone_quality_checks.xlsx).
+
+The Excel File regarding various business questions can be found [here](gamezone-orders-data.xlsx).
 
 ## Data Structure & Initial Checks
 
