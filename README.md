@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Overall Sales Trends:** Analysis of total sales, identifying revenue growth trends and monthly fluctuations.
 - **Seasonal Demand Patterns:** Assessment of monthly sales trends, highlighting strong performance with specific seasons.
 - **Product Performance:** Evaluation of top and low performers with leading and underperforming sales.
-- **Channel Performance & Marketing Effectiveness:** Analyzes sales contribution by marketing and purchase channels.
+- **Channel Performance & Marketing Effectiveness:** Analyzes sales contribution by marketing channels.
 - **Regional Performance & Market Shifts:** Evaluates sales behavior across geographic regions.
 
 The Excel File of raw dataset for this analysis can be found [here](raw_data_gamezone_orders.xlsx).
@@ -47,7 +47,7 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 ![](https://github.com/ettolrahc97/Gamezone-Retail-Project/blob/b71c0e3332694291992ae93f8c0a0674f5ee75ee/Overview.png)
 
 ## Insights Deep Dive
-**Sales Trends & Product Performance:**
+**Sales Trends of Product Performance:**
 - Over the 2019-2021 period, the Top 3 products (27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle) are clearly driving overall revenue and orders. The 27in 4k Gaming Monitor emerged as the top revenue driver with steadily rising sales and strong order counts, reflecting consistent demand and broad market appeal. The Sony PS5 Bundle maintained the highest AOV (Average Order Value) especially in December 2020, showing its premium positioning, but its order count was more constrained, likely due to availability. The Nintendo Switch exhibited variable sales and order spikes, driven by stock availability and seasonal demand, while its AOV showed moderate growth.
 - High-value products like Sony PS5 drive revenue strength, while stable mid-tier offerings like the gaming monitor capture consistent demand. Console sales were more volatile, emphasizing the impact of supply cycles and promotional timing on performance.   
 - Order counts show that spikes in December 2020 across all top products drove the overall revenue peak.
