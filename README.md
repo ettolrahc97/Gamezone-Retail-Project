@@ -14,7 +14,10 @@ Insights and recommendations are provided on the following key areas:
 - **Channel Performance & Marketing Effectiveness:** Analyzes sales contribution by marketing and purchase channels.
 - **Regional Performance & Market Shifts:** Evaluates sales behavior across geographic regions.
 
-The Excel File used to inspect and clean the data for this analysis can be found [here](raw_data_gamezone_orders.xlsx).
+The Excel File of raw dataset for this analysis can be found [here](raw_data_gamezone_orders.xlsx).
+The Excel File utilized to clean, organize and prepare data for the dashboard can be found [here]().
+The Excel File utilized to inspect and perform quality checks can be found [here]().
+The Excel File regarding various business questions can be found [here]().
 
 ## Data Structure & Initial Checks
 
